@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1582505125 source:c:\users\jashliao\desktop\c_snake\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<Windows.h>
+	<time.h>
+	<conio.h>
+
